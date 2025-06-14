@@ -2,7 +2,7 @@
 title: "Shamsia Afrin Jamema"
 ---
 
-![Shamsia Afrin Jamema](/portfolio/images/shamsia.jpg)
+![Shamsia Afrin Jamema](/jamema/images/shamsia.jpg)
 
 I'm **Shamsia Afrin Jamema**, currently pursuing my Master's in Computer Science and Engineering (Data Science) at Daffodil International University. I'm passionate about AI, deep learning, and building impactful software.
 
